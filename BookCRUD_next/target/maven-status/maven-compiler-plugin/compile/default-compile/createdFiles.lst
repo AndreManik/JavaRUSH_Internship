@@ -1,0 +1,6 @@
+javaRush\ui\VaadinUI.class
+javaRush\Application.class
+javaRush\ui\BookEditor$ChangeHandler.class
+javaRush\repository\BookRepository.class
+javaRush\data\Book.class
+javaRush\ui\BookEditor.class
