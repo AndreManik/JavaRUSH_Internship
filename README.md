@@ -19,7 +19,3 @@ FrontEnd — Vaadin
 
 Для сборки и запуска проекта в IntelliJ IDEA
 использую команду для Maven clean package spring-boot:run
-
-Всё что мог... расчитываю на благосклонность проверяющих:)
-
-P.S. случайно залил target
